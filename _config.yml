@@ -1,0 +1,14 @@
+layout_spectrum: 0.5171858
+typography_spectrum: 0.02303508
+color:
+  saturation: 0.8282117
+  lightness: 0.220022
+  brandStrength: 0.2618431
+  brandColors:
+    - '#090907'
+    - '#FFFFFF'
+    - '#B5B5B5'
+    - '#808791'
+    - '#483723'
+  rhythmicContrast: 0.3837009
+name: TestIB
